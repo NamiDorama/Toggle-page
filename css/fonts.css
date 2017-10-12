@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'Trebuchet-ms';
+	src: url('../fonts/Trebuchet/Trebuchet-ms.eot');
+	src: url('../fonts/Trebuchet/Trebuchet-ms.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/Trebuchet/Trebuchet-ms.woff') format('woff'),
+		 url('../fonts/Trebuchet/Trebuchet-ms.ttf') format('truetype');
+	font-style: normal;
+	font-weight: normal;
+}
